@@ -3,8 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e129290013a19886a75da8420e899f25",
+  "assets/AssetManifest.json": "ff435d36ea88a733c6589581919c59f1",
 "assets/assets/banner.png": "bbf222952114102524c4d76068006ff1",
+"assets/assets/chalet1.jpg": "6f3656a837052227fe8700e7f388a0b7",
+"assets/assets/chalet2.jpg": "fc536d1339263459e05a1e09b02c8c69",
+"assets/assets/chalet3.jpg": "3bea1485d8f4010fa768acbdf16b22ca",
 "assets/assets/content.json": "9621d8d541814410b70490b7fafcda56",
 "assets/assets/gastro.jpg": "5c79f211f5b2e579547f100ac60859e8",
 "assets/assets/map.PNG": "c200376b7df856090781a4f98d7df958",
@@ -22,9 +25,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a71d1e179bcf11aba53d985fb9a43876",
-"/": "a71d1e179bcf11aba53d985fb9a43876",
-"main.dart.js": "c2323e2437c6747640fcf9a2e0926de9",
+"index.html": "2ea07be4aa2f822d6c98ca8f4ef1c82f",
+"/": "2ea07be4aa2f822d6c98ca8f4ef1c82f",
+"main.dart.js": "f1ca62b300383897dd72ba4101e70b14",
 "manifest.json": "d0cb5df62dc47d703cede87e5fe30676",
 "version.json": "60e8c740881cb254ca0f09479ca00871"
 };
