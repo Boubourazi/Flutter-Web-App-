@@ -55756,7 +55756,7 @@ $0:function(){},
 $S:1}
 F.y0.prototype={
 L:function(a,b){var s=null,r=t.fQ
-return T.xY(H.d([T.t0(H.d([L.bv("T\xe9l\xe9phone: 05 67 89 23 45",s,s,s,s,s,s),L.Oz(C.qg)],r),C.ak,C.d5,C.bC),T.t0(H.d([L.bv("Fax: 01 62 89 23 45",s,s,s,s,s,s),L.Oz(C.qg)],r),C.ak,C.d5,C.bC),new Z.d0(50,s,s,s,C.j,s),T.t0(H.d([L.bv("Adresse : 3 Rue des Giraffes 12345 Ville-Parmentier",s,s,s,s,s,s),L.Oz(C.x0)],r),C.ak,C.d5,C.bC),new T.k9(1,C.jg,T.t0(H.d([U.qt("assets/map.png",s,s,s,550,550)],r),C.ak,C.d5,C.bC),s)],r),C.ak,C.ej)}}
+return T.xY(H.d([T.t0(H.d([L.bv("T\xe9l\xe9phone: 05 67 89 23 45",s,s,s,s,s,s),L.Oz(C.qg)],r),C.ak,C.d5,C.bC),T.t0(H.d([L.bv("Fax: 01 62 89 23 45",s,s,s,s,s,s),L.Oz(C.qg)],r),C.ak,C.d5,C.bC),new Z.d0(50,s,s,s,C.j,s),T.t0(H.d([L.bv("Adresse : 3 Rue des Giraffes 12345 Ville-Parmentier",s,s,s,s,s,s),L.Oz(C.x0)],r),C.ak,C.d5,C.bC),new T.k9(1,C.jg,T.t0(H.d([U.qt("assets/map.PNG",s,s,s,550,550)],r),C.ak,C.d5,C.bC),s)],r),C.ak,C.ej)}}
 F.J_.prototype={
 m:function(a){this.b_(0)},
 ar:function(){var s,r=this.cO$
